@@ -1,0 +1,12 @@
+export 'package:freetour_tfg/features/app/auth/screens/login_background.dart';
+export 'package:freetour_tfg/features/app/ui/widget/auth_background.dart';
+export 'package:freetour_tfg/features/app/ui/widget/card_container.dart';
+export 'package:freetour_tfg/features/app/ui/widget/form_feature_row.dart';
+export 'package:freetour_tfg/features/app/ui/widget/general_container.dart';
+export 'package:freetour_tfg/features/app/ui/widget/notification_snackbar.dart';
+export 'package:freetour_tfg/features/app/ui/widget/static_feacture_row.dart';
+export 'package:freetour_tfg/features/app/ui/widget/text_chip.dart';
+export 'package:freetour_tfg/features/destinations/ui/widgets/list_tours.dart';
+export 'package:freetour_tfg/features/destinations/ui/widgets/sliver_appbar.dart';
+export 'package:freetour_tfg/features/menu/ui/widgets/navigation_bar.dart';
+export 'package:freetour_tfg/features/users/ui/widgets/container_outline.dart';

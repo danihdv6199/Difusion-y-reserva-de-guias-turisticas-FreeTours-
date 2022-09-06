@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651266159154",
+    "firebase_url": "https://freetour-88d22-default-rtdb.firebaseio.com",
+    "project_id": "freetour-88d22",
+    "storage_bucket": "freetour-88d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651266159154:android:f13ea62c173cd47cc7822b",
+        "android_client_info": {
+          "package_name": "com.example.freetour_tfg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651266159154-9ocd18i55vnrejdsolnftc9d94ggd4ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VSojzuOstQpQNnsaZ8yJiYdiuisVVJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651266159154-9ocd18i55vnrejdsolnftc9d94ggd4ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
